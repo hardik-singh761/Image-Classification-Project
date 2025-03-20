@@ -17,13 +17,10 @@ Real-Time Predictions: Users can upload an image to get instant recognition resu
 
 📊 Tech Stack
 
-🖥 Backend: Python, Flask, TensorFlow/Keras, OpenCV
-
-🎨 Frontend: HTML, CSS, JavaScript
-
-📂 Database: Pre-collected labeled image dataset (stored in directories)
-
-🚀 Deployment: Flask (Localhost or Cloud)
+Backend: Python, Flask, TensorFlow/Keras, OpenCV
+Frontend: HTML, CSS, JavaScript
+Database: Pre-collected labeled image dataset (stored in directories)
+Deployment: Flask (Localhost or Cloud)
 
 
 🤝 Contributing
